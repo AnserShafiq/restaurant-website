@@ -2,6 +2,10 @@
 #old-section{
     margin-top: 25rem;
 }
+.couple-flex{
+    display: flex;
+    flex-direction: row;
+}
 .bg-3{
     background-image: url(/imgs/bg-2.webp);
     padding: 0 8rem;
@@ -108,7 +112,6 @@
     text-decoration: none;
     cursor: pointer;
 }
-
 /* Footer */
 
 .bg-footer{
@@ -128,8 +131,16 @@
     padding:3.3rem 2rem 1rem 3rem;
     line-height: 3rem;
 }
+.footer-h3-2{
+    color:white;
+    font-size: 1.3rem;
+    padding:3.3rem 2rem 1rem 3rem;
+    line-height: 3rem;
+    margin-left:2.5rem;
+}
 .footer-writings{
     margin:-30rem 3rem 0 3rem;
+    padding:0 1rem;
 }
 .insta-img{
     height: 5rem;
@@ -145,6 +156,12 @@
     color:whitesmoke;
     cursor: pointer;
     border: none;
+}
+.icons{
+    margin-left: 4rem;
+}
+.fb{
+    padding: 10px 13px;
 }
 .icon{
     padding:10px;
