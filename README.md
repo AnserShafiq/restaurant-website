@@ -8,4 +8,4 @@ It was my project to replica a website of Giardino Restuarant.
 3) BootStrap
 
 # Link Of Web
-https://restaurant-replica.netlify.app/
+https://giardino-restaurant-webpage.netlify.app/
